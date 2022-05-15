@@ -11,7 +11,7 @@ In this project, we have prepared an order automation. This project is based on 
 
 #### Technical Information
 + By clicking on the branches in our project, you can browse and download the relevant branch.
-+ You can make recommendations and suggestions in the [Discussions](https://github.com/mehmet5643/OrderAutomation/discussions) section.
++ You can make recommendations and suggestions in the [Discussions](https://github.com/HakanBayazitHabes/OrderAutomation/discussions) section.
 + To access the forms after cloning the file, opening OrderAutomation.sln will lead you to the forms.
 
 ### Future Developments
